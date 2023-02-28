@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/53e8bhq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Remotely login into the Microsoft Azure virtual machine using its' Public IP address along with the username and password created.  
+Remote Login into the Microsoft Azure virtual machine using its' Public IP address along with the username and password created.  
 </p>
 <br />
 
@@ -42,7 +42,7 @@ Remotely login into the Microsoft Azure virtual machine using its' Public IP add
 <img src="https://imgur.com/9rH6bXP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the search bar, type and click on "Turn Windows features on or off" program. Locate and turn on the "Internet Information Services" folder. Expand the "World Wide Web Services" folder, then expand "Application Development Features" folder, and then turn on the "CGI" folder.       
+From the search bar, type and click on the "Turn Windows features on or off" program. Locate and turn on the "Internet Information Services" folder. Turn on and expand the "World Wide Web Services" and "Application Development Features" folders, then turn on the "CGI" folder.       
 </p>
 <br />
 
@@ -60,6 +60,8 @@ From the search bar, type and click on "Turn Windows features on or off" program
 
 
 <p>
+5. Create the directory C:\PHP
+</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
