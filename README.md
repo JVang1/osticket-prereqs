@@ -13,13 +13,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (22H2)
+- Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Microsoft Azure Tenant
+- Microsoft Azure Subscription
+- Resource Group 
 - Item 4
 - Item 5
 
