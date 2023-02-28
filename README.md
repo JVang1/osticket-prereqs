@@ -39,10 +39,10 @@ Remotely login into the Microsoft Azure virtual machine using its' Public IP add
 <p>
 2. Install/Enable IIS in Windows with CGI
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/ean6lJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+From the search bar, type and click on "Turn Windows features on or off". Locate and turn on the folder "Internet Information Services"   
 </p>
 <br />
 
