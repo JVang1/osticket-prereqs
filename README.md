@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/53e8bhq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+Remotely login into the virtual machine using the Public IP address, username, and password. 
 </p>
 <br />
 
