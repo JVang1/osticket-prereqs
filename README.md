@@ -62,10 +62,10 @@ From the search bar, type and click on the "Turn Windows features on or off" pro
 <p>
 5. Create the directory C:\PHP
 </p>
-<img src="https://imgur.com/Nkox9sX.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5yyUWaN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the C Drive. Right click and create a new folder named "PHP".
+Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right click and create a new folder named "PHP".
 </p>
 <br />
 
