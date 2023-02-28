@@ -65,7 +65,7 @@ From the search bar, type and click on the "Turn Windows features on or off" pro
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+Navigate to the C Drive. Right click and create a new folder named "PHP".
 </p>
 <br />
 
