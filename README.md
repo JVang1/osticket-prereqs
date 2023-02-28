@@ -71,12 +71,9 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 
 
 <p>
-6. 
+6. From the osTicket Installation Files, download [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view) (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip/extract the contents into "C:\PHP" folder. 
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Edit description.
+<img src="https://imgur.com/N0l3BvH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
