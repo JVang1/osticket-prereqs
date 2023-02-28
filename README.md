@@ -71,7 +71,9 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Edit description.
@@ -80,7 +82,31 @@ Edit description.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+8. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+9. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Edit description.
