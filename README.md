@@ -20,8 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure Tenant
 - Microsoft Azure Subscription
 - Resource Group 
-- Item 4
-- Item 5
+- Virtual Machine - Windows 10 with 2-4 Virtual CPUs
+- [osTicket Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 <h2>Installation Steps</h2>
 
