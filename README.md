@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure Tenant
+- [Microsoft Azure Tenant](https://portal.azure.com/)
 - Microsoft Azure Subscription
 - Resource Group 
 - Virtual Machine - Windows 10 with 2-4 Virtual CPUs
