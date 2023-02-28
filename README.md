@@ -26,7 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/53e8bhq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+1. Remote Desktop Connection
+</p>
+<img src="https://imgur.com/53e8bhq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Edit description.
