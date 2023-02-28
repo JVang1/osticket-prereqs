@@ -42,7 +42,7 @@ Remotely login into the Microsoft Azure virtual machine using its' Public IP add
 <img src="https://imgur.com/9rH6bXP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the search bar, type and click on "Turn Windows features on or off". Locate and turn on the "Internet Information Services" folder. Expand the "World Wide Web Services" folder, then expand "Application Development Features" folder and    
+From the search bar, type and click on "Turn Windows features on or off". Locate and turn on the "Internet Information Services" folder. Expand the "World Wide Web Services" folder, then expand "Application Development Features" folder, and turn on the "CGI" folder.       
 </p>
 <br />
 
