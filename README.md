@@ -42,12 +42,13 @@ Remotely login into the Microsoft Azure virtual machine using its' Public IP add
 <img src="https://imgur.com/9rH6bXP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the search bar, type and click on "Turn Windows features on or off". Locate and turn on the "Internet Information Services" folder. Expand the "World Wide Web Services" folder, then expand "Application Development Features" folder, and turn on the "CGI" folder.       
+From the search bar, type and click on "Turn Windows features on or off" program. Locate and turn on the "Internet Information Services" folder. Expand the "World Wide Web Services" folder, then expand "Application Development Features" folder, and then turn on the "CGI" folder.       
 </p>
 <br />
 
 
 <p>
+3. From the osTicket Installation Files, download and install [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view) (PHPManagerForIIS_V1.5.0.msi)  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
