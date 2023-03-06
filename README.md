@@ -85,7 +85,7 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 
 
 <p>
-8. 
+8. From the osTicket Installation Files, download and install [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view) (mysql-5.5.62-win32.msi)
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
