@@ -104,3 +104,36 @@ Edit description.
 Edit description.
 </p>
 <br />
+
+
+<p>
+10. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+11. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+12. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
