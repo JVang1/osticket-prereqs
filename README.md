@@ -79,12 +79,7 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 
 
 <p>
-7. 
-</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Edit description.
+7. From the osTicket Installation Files, download and install [VC_redist.x86.exe](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view).
 </p>
 <br />
 
