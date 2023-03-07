@@ -90,7 +90,7 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+Typical Setup, Launch Configuration Wizard, Standard Configuration, Password1
 </p>
 <br />
 
