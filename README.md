@@ -87,10 +87,34 @@ Using File Explorer, navigate to the Windows (C:) Drive. Once inside, right clic
 <p>
 8. From the osTicket Installation Files, download and install [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view) (mysql-5.5.62-win32.msi)
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/shPZ6qT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Typical Setup, Launch Configuration Wizard, Standard Configuration, Password1
+During installation, select Setup Type "Typical". 
+<p>  
+</p>
+<img src="https://imgur.com/VyejqjQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>  
+<p>  
+Launch the MySQL Instance Configuration Wizard. 
+<p>  
+</p>
+<img src="https://imgur.com/jyJjfFv.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>  
+<p>   
+Select "Standard Configuration". 
+<p>  
+</p>
+<img src="https://imgur.com/VyejqjQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>  
+<p>   
+Select "Install As Windows Service". 
+<p>  
+</p>
+<img src="https://imgur.com/VyejqjQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>  
+<p>   
+Create the root password.   
 </p>
 <br />
 
