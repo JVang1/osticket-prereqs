@@ -186,7 +186,7 @@ Within c:\inetpub\wwwroot, rename folder “upload” to “osTicket”.
 
 
 <p>
-15. 
+15. Note that some extensions are not enabled.
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
