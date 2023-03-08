@@ -253,7 +253,7 @@ Under Basic permissions, check "Full Control" and click "OK".
 
 
 <p>
-18. 
+18. Continue Setting up osTicket in the browser (click Continue)
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
