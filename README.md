@@ -229,12 +229,15 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
 <p>
-17. 
+17. Assign Permissions: ost-config.php
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JyC5LWu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+Right-click "ost-config.php" file and click on "Properties". Click on "Security" tab, then "Advanced". Click on "Disable inheritance" -> Remove all
+inherited permissions from this object.
+ 
+Click on -> Everyone -> All  
 </p>
 <br />
 
