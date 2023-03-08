@@ -126,12 +126,9 @@ Click on "Execute".
 
 
 <p>
-9. 
+9. Open and run Internet Information Services (IIS) as an Administrator.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Edit description.
+<img src="https://imgur.com/I2YHQFu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
