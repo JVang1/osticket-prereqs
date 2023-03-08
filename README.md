@@ -145,12 +145,9 @@ From PHP Manager, click on "Register new PHP version". Provide a path "C:\PHP\ph
 
 
 <p>
-11. 
+11. Reload IIS (Open IIS, Stop and Start the server)
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Edit description.
+<img src="https://imgur.com/b51REZa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
