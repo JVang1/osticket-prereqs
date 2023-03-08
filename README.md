@@ -214,13 +214,13 @@ Refresh the osTicket site in the browser and observe the changes.
 <p>
 16. Rename: ost-config.php
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qmQ5mTj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 </p>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/zOFRs8I.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
