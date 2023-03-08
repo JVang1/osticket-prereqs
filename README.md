@@ -297,7 +297,7 @@ MySQL Database: osTicket. Enter in the MySQL Username and Password. Then, click 
 <img src="https://imgur.com/CdMoqmw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Browse to your [Help Desk Login Page](http://localhost/osTicket/scp/login.php).
+Browse to your Help Desk Login Page : http://localhost/osTicket/scp/login.php
 </p>
 <br />
 
