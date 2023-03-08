@@ -134,12 +134,12 @@ Click on "Execute".
 
 
 <p>
-10. 
+10. Register PHP from within Internet Information Services (IIS).
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cC0lCnD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+From PHP Manager, click on "Register new PHP version". Provide a path "C:\PHP\php-cgi.exe" and click "OK". 
 </p>
 <br />
 
