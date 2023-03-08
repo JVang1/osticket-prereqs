@@ -188,10 +188,25 @@ Within c:\inetpub\wwwroot, rename folder “upload” to “osTicket”.
 <p>
 15. Note that some extensions are not enabled.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uvvbg5b.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<img src="https://imgur.com/uBdmiGZ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+Go back to IIS, Sites -> Default Web Sites -> osTicket. Double-click on PHP Manager. Click “Enable or disable an extension”.
+</p>
+</p>
+<img src="https://imgur.com/i3JUAgf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+Enable: php_imap.dll, php_intl.dll, and php_opcache.dll.
+</p>
+</p>
+<img src="https://imgur.com/Qhg9swS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Refresh the osTicket site in the browser and observe the changes.
 </p>
 <br />
 
