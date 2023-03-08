@@ -155,10 +155,16 @@ From PHP Manager, click on "Register new PHP version". Provide a path "C:\PHP\ph
 <p>
 12. From the osTicket Installation Files, download and install [osTicket v1.15.8](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view).
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KHNFlTi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+Extract and copy “upload” folder to c:\inetpub\wwwroot.
+</p>
+</p>
+<img src="https://imgur.com/Q3VzmNG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Within c:\inetpub\wwwroot, rename folder “upload” to “osTicket”.
 </p>
 <br />
 
