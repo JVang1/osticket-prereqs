@@ -234,10 +234,20 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <img src="https://imgur.com/JyC5LWu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right-click "ost-config.php" file and click on "Properties". Click on "Security" tab, then "Advanced". Click on "Disable inheritance" -> Remove all
-inherited permissions from this object.
- 
-Click on -> Everyone -> All  
+Right-click "ost-config.php" file and click on "Properties". Click on "Security" tab, then "Advanced". Click on "Disable inheritance" -> "Remove all
+inherited permissions from this object".
+</p>
+</p>
+<img src="https://imgur.com/8fYKht1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on "Add". Click on "Select a principal", enter object name "Everyone", then click "OK". 
+</p> 
+</p>
+<img src="https://imgur.com/JyC5LWu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+ -> All  
 </p>
 <br />
 
