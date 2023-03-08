@@ -212,7 +212,24 @@ Refresh the osTicket site in the browser and observe the changes.
 
 
 <p>
-16. 
+16. Rename: ost-config.php
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+</p>
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
+
+
+<p>
+17. 
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
@@ -223,7 +240,51 @@ Edit description.
 
 
 <p>
-17. 
+18. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+19. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+20. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+21. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+22. 
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
