@@ -153,7 +153,62 @@ From PHP Manager, click on "Register new PHP version". Provide a path "C:\PHP\ph
 
 
 <p>
-12. 
+12. Install osTicket v1.15.8
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+13. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+14. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+15. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+16. 
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Edit description.
+</p>
+<br />
+
+
+<p>
+17. 
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
