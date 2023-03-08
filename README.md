@@ -296,6 +296,9 @@ MySQL Database: osTicket. Enter in the MySQL Username and Password. Then, click 
 </p>
 <img src="https://imgur.com/CdMoqmw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+</p>
+<img src="https://imgur.com/cOOkXxB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 Browse to your Help Desk Login Page : http://localhost/osTicket/scp/login.php
 </p>
@@ -303,7 +306,15 @@ Browse to your Help Desk Login Page : http://localhost/osTicket/scp/login.php
 
 
 <p>
-22. 
+22. End Users osTicket URL: http://localhost/osTicket/ 
+</p>
+<img src="https://imgur.com/asmLZtS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+<p>
+23. 
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
