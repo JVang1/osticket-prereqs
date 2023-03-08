@@ -178,12 +178,9 @@ Within c:\inetpub\wwwroot, rename folder “upload” to “osTicket”.
 
 
 <p>
-14. 
+14. From IIS, click on the drop down arrows for "Sites", then "Default Web Site". Click on folder "osTicket". On the right, click “Browse *:80(http)”.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Edit description.
+<img src="https://imgur.com/V6EOgOQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
