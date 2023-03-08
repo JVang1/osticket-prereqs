@@ -266,12 +266,15 @@ Enter the information into the "System Settings" and "Admin User" sections.
 <p>
 19. From the osTicket Installation Files, download and install [HeidiSQL](https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe).
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Xh9m4a0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open Heidi SQL.
-Create a new session, root/Password1.
-Connect to the session.
+Open Heidi SQL. Create a new session, enter the "username" and "password". Then, open and connect to the session.
+</p>
+</p>
+<img src="https://imgur.com/ufzubnU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
 Create a database called “osTicket”.
 </p>
 <br />
