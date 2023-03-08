@@ -244,10 +244,10 @@ inherited permissions from this object".
 Click on "Add". Click on "Select a principal", enter object name "Everyone", then click "OK". 
 </p> 
 </p>
-<img src="https://imgur.com/JyC5LWu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IJxItMD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
- -> All  
+Under Basic permissions, check "Full Control" and click "OK".  
 </p>
 <br />
 
