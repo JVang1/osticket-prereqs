@@ -269,7 +269,7 @@ Enter the information into the "System Settings" and "Admin User" sections.
 <img src="https://imgur.com/Xh9m4a0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open Heidi SQL. Create a new session, enter the "username" and "password". Then, open and connect to the session.
+Open Heidi SQL. Create a new session, enter the "username" and "password". Then, click "Open" to connect to the session.
 </p>
 </p>
 <img src="https://imgur.com/ufzubnU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -281,12 +281,12 @@ Create a database called “osTicket”.
 
 
 <p>
-20. 
+20. Continue Setting up osTicket in the browser. Enter information into the "Database Settings" section.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Kacgwdb.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Edit description.
+MySQL Database: osTicket. Enter in the MySQL Username and Password. Click “Install Now”. 
 </p>
 <br />
 
