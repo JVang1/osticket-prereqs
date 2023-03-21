@@ -8,8 +8,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
