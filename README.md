@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/53e8bhq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Remote Login into the Microsoft Azure virtual machine using its' Public IP address along with the username and password created.  
+Using Remote Desktop Connection, login into the Microsoft Azure virtual machine using its' Public IP address along with the username and password created.  
 </p>
 <br />
 
